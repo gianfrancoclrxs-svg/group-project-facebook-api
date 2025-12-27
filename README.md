@@ -12,7 +12,6 @@ Facebook Login and API Integration using Node.js and Ngrok
 
 ## Technologies Used
 - Node.js
-- Express.js
 - Passport.js (Facebook Strategy)
 - Facebook Graph API
 - HTML
@@ -28,7 +27,7 @@ Facebook Login and API Integration using Node.js and Ngrok
 - Reason for Ngrok:
   - Meta requires public HTTPS URLs
   - Localhost is not allowed
-  - Strict OAuth and security rules
+  - Strict OAuth and security rules 
 
 ## Project Structure
 - /public
